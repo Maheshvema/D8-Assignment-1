@@ -1,0 +1,7 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-8 Assignment\RegexAssignment\RegexAssignment\bin\Debug\RegexAssignment.exe.config
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-8 Assignment\RegexAssignment\RegexAssignment\bin\Debug\RegexAssignment.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-8 Assignment\RegexAssignment\RegexAssignment\bin\Debug\RegexAssignment.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-8 Assignment\RegexAssignment\RegexAssignment\obj\Debug\RegexAssignment.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-8 Assignment\RegexAssignment\RegexAssignment\obj\Debug\RegexAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-8 Assignment\RegexAssignment\RegexAssignment\obj\Debug\RegexAssignment.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-8 Assignment\RegexAssignment\RegexAssignment\obj\Debug\RegexAssignment.pdb
